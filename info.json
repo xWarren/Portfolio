@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "608a714a421c0000ea005356"
+  },
+  "firstname": "admin",
+  "lastname": "ad",
+  "address": "ad",
+  "username": "ad",
+  "password": "ad",
+  "admin": "yes",
+  "created_at": {
+    "$date": "2021-04-29T08:41:46.064Z"
+  },
+  "UNIX_time": 1619685706,
+  "ordersIDS": [
+    {
+      "$oid": "608a8504421c0000ea00535d"
+    },
+    {
+      "$oid": "608a8518421c0000ea00535e"
+    },
+    {
+      "$oid": "608a8bbe421c0000ea00535f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608a8e1b421c0000ea005361"
+  },
+  "firstname": "Warren",
+  "lastname": "war",
+  "address": "war",
+  "username": "war",
+  "password": "war",
+  "admin": "no",
+  "created_at": {
+    "$date": "2021-04-29T10:44:43.343Z"
+  },
+  "UNIX_time": 1619693083,
+  "ordersIDS": [
+    {
+      "$oid": "608a93bb421c0000ea005365"
+    },
+    {
+      "$oid": "608a977f421c0000ea005366"
+    },
+    {
+      "$oid": "608a9792421c0000ea005367"
+    },
+    {
+      "$oid": "608a97ca421c0000ea005368"
+    },
+    {
+      "$oid": "608a97cf421c0000ea005369"
+    },
+    {
+      "$oid": "608a9944421c0000ea00536a"
+    },
+    {
+      "$oid": "608a9968421c0000ea00536b"
+    },
+    {
+      "$oid": "608a9ab2421c0000ea00536c"
+    },
+    {
+      "$oid": "60c183ae907200003e002b26"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c184c1907200003e002b28"
+  },
+  "firstname": "asd",
+  "lastname": "asd",
+  "address": "asd",
+  "username": "asd",
+  "password": "asd",
+  "admin": "no",
+  "created_at": {
+    "$date": "2021-06-10T03:19:28.983Z"
+  },
+  "UNIX_time": 1623295168
+}]
